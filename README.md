@@ -1,5 +1,5 @@
 
-### Olá, sou Silas Gomes Santos, apaixonado e estudante de programação.
+### Olá, sou Silas Gomes Santos, desenvolvedor e estudante de programação.
 <div align="center">
   <a href="https://github.com/SilasGS%22%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilasGS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E
